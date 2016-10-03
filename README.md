@@ -1,4 +1,5 @@
-Mijn persoonlijke AHS informatie
+>Mijn persoonlijke AHS informatie
+|             |              |
 |:------------|--------------|
 |Student      |Nina Genitello|
 |Academiejaar |2016-17       |
