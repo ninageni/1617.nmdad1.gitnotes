@@ -1,8 +1,13 @@
 >Mijn persoonlijke AHS informatie
-|             |               |
-| ------------- | --------------- |
-| Student     | Nina Genitello |
-| Academiejaar | 2016-17       |
+
+|                     |                                |
+| ------------------- | ------------------------------ |
+| Student             | Nina Genitello                 |
+| Opleidingsonderdeel | New Media Design & Development |
+| Afstudeerrichting   | Multimediaproductie (MMP)      |
+| Specialisatie       | prodev                         |
+| Academiejaar        | 2016-17                        |
+| Onderwijsinstelling | Arteveldehogeschool            |
 
 Mappen
 ------
